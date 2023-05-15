@@ -6,3 +6,4 @@ Netife社区项目收集
 这里用于添加产品列表：  
 # Study List  
 这里用于添加学习相关的项目：  
+[网易云音乐助手 | liaosunny123](https://github.com/liaosunny123/Music163SongDownload): 从学习的角度尝试分析网易云音乐的相关功能。  
